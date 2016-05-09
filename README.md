@@ -1,5 +1,5 @@
-A pygments and MathJax-aware markdown engine, for rendering code snippets,
-and math formulas using mistune. How to use:
+A  [pygments](http://http://pygments.org/) and  [MathJax](https://www.mathjax.org/)-aware markdown engine, for rendering code snippets,
+and math formulas using [mistune](http://mistune.readthedocs.org/en/latest/). How to use:
 
 
 ```python
